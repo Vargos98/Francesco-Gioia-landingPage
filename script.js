@@ -24,3 +24,10 @@ all.from('img',{
   duration:0.5,
   stagger:0.4,
 })
+
+all.from('h5',{
+  y:120,
+  opacity:0,
+  duration:0.4,
+  delay:0.5,
+})
