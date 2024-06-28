@@ -31,3 +31,4 @@ all.from('h5',{
   duration:0.4,
   delay:0.5,
 })
+
